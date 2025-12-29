@@ -10,7 +10,8 @@ Where:
 - <Destination_folder>: Where you want to extract them.
 
 For example:
-python md_code_extractor.py MD_FILE_NAME.md .
+
+C:\>python md_code_extractor.py MD_FILE_NAME.md .
 
 Where you want to extract all code from MD_FILE_NAME.md to the current folder.
 
